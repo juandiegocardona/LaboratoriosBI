@@ -1,4 +1,4 @@
-HairColor;Pregnancies;Glucose;City;BloodPressure;SkinThickness;Insulin;BMI;DiabetesPedigreeFunction;Age;Outcome
+Hair color;Pregnancies;Glucose;City;BloodPressure;SkinThickness;Insulin;BMI;DiabetesPedigreeFunction;Age;Outcome
 Red;6;148;New York;72;35;0;336;627;50;1
 Black;1;85;New York;66;29;0;266;351;31;0
 Red;8;183;New York;64;0;0;233;672;32;1
